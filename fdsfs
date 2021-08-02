@@ -1,0 +1,1 @@
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="cmds",Text="Press F9 to Show all the commands", Duration=15})
